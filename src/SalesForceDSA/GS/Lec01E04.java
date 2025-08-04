@@ -6,21 +6,25 @@ public class Lec01E04 {
     public static void main(String[] args) {
 
 
-//===================== Inputs in Java ====================
-/*
-*  Scanner scn = new Scanner(System.in);
-*   For integers only : scn.nextInt();
-*   For Strings only : scn.nextLine();
-*   If taken Both int & string in a same program: Integer.parseInt(scn.nextLine())
-*
-*
-* */
+//===================== For Loops in Java ====================
+//    for (Initialization; TerminationCOndition ; Updation){
+//        Body
+//    }
 
-        Scanner scn = new Scanner(System.in);
-        System.out.println("Enter number");
-        int N = Integer.parseInt(scn.nextLine());
-        System.out.println("Enter name");
-        String name = scn.nextLine();
+        // 3 Iterations
+        for( int count = 0; count < 3; count++ ) {
+            System.out.println(count + " Hello World");
+        }
+
+        // O Iterations
+        for( int count = 0; count < 3; count++ ) {
+            System.out.println(count + " Hello World");
+        }
+
+        // Infinite Loop ==> Runtime Error (Verdict: Time Limit Exceeded)
+        for( int count = 0; count >= 0; count++ ) {
+            System.out.println(count + " Coding Saga");
+        }
 
 
 

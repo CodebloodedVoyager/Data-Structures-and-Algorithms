@@ -1,4 +1,4 @@
-package pepCoding.GettingStarted.Patterns;
+package pepCoding.Basics.GettingStarted.Patterns;
 
 import java.util.Scanner;
 

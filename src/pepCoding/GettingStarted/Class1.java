@@ -1,4 +1,4 @@
-package UberPepDSA.GettingStarted;
+package pepCoding.GettingStarted;
 
 public class Class1 {
     public static void main(String[] args) {

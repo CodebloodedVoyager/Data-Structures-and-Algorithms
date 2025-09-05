@@ -1,4 +1,4 @@
-package pepCoding.GettingStarted;
+package pepCoding.GettingStarted.JavaFoundation;
 
 public class Class2 {
     public static void main(String[] args) {

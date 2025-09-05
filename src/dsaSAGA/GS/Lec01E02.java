@@ -1,4 +1,4 @@
-package SalesForceDSA.GS;
+package dsaSAGA.GS;
 
 public class Lec01E02 {
     public static void main(String[] args) {

@@ -1,13 +1,11 @@
-package SalesForceDSA.GS;
-
-import java.util.Scanner;
+package dsaSAGA.GS;
 
 public class Lec01E04 {
     public static void main(String[] args) {
 
 
 //===================== For Loops in Java ====================
-//    for (Initialization; TerminationCOndition ; Updation){
+//    for (Initialization; TerminationCondition ; Updation){
 //        Body
 //    }
 

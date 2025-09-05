@@ -1,4 +1,4 @@
-package SalesForceDSA.GS;
+package dsaSAGA.GS;
 
 import java.util.Scanner;
 
